@@ -1,0 +1,21 @@
+========================================
+              BIOSKOP III
+========================================
+SALE ID   : P01
+DATE/TIME : 07/10/26 12.00
+KASIR     : cika
+
+Paket Single
+Harga : Rp100000
+Isi Bundling:
+Seat A1
+Popcorn
+Medium Sprite
+
+Film   : AVATAR
+Studio : Studio 2
+Jam    : 14.00
+Seat   : A2
+
+TOTAL : Rp140000
+========================================
