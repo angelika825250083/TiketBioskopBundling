@@ -9,7 +9,7 @@ public class App {
     public static void main(String[] args) throws Exception {
 
         // ==========================================
-        // MEMBUAT INPUT
+        // MEMBUAT INPUT LOGIN
         // ==========================================
 
         // Scanner = alat buat baca ketikan dari keyboard. nextLine() baca satu baris penuh (boleh ada spasi), nextInt() baca angka
